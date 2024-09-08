@@ -1,4 +1,7 @@
+package ejercicios;
+
 import java.util.Scanner;
+
 
 public class LetraONumero {
     public static String evaluar(char caracter) {
